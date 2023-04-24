@@ -2,15 +2,14 @@
 //  ContentView.swift
 //  SprintOn
 //
-//  Created by Niraj Kumar on 24/04/23.
+//  Created by Prajjwal on 24/04/23.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        HomePageView()
     }
 }
 
